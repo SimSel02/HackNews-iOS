@@ -1,7 +1,8 @@
 # HackNews
 Hacker News Client for IOS using SwiftUI, MVVM and SwiftData
- 
-<img width="1226" alt="Screenshot 2024-09-16 at 10 14 32" src="https://github.com/user-attachments/assets/ed997d43-5798-460f-8776-7897b9e50d10">
+
+<img width="1264" alt="Screenshot 2024-09-16 at 10 26 03" src="https://github.com/user-attachments/assets/837e9127-4841-482e-a8ef-67c2f7fc3f73">
+
 
 
 ## Features
@@ -80,11 +81,14 @@ Requesting a list return the ids, other request are needed to fetch stories data
 - type
 
 ## User Workflow
-<img width="775" alt="Screenshot 2024-09-13 at 18 21 25" src="https://github.com/user-attachments/assets/d9d7f35e-6f73-43ea-9e26-771ff2fc79fb">
+<img width="776" alt="Screenshot 2024-09-16 at 10 24 06" src="https://github.com/user-attachments/assets/4e0aeade-8011-45c9-add3-e929865278cd">
+
 
 ## UX Prototype
-<img width="544" alt="Screenshot 2024-09-13 at 18 21 59" src="https://github.com/user-attachments/assets/840625b1-1d55-447d-8001-f7e63b7335aa">
+![UXXPrototype](https://github.com/user-attachments/assets/d9b5720d-26c2-4493-b801-8049b42d58fd)
+
 
 
 ## UIPrototype
-<img width="772" alt="Screenshot 2024-09-13 at 18 23 27" src="https://github.com/user-attachments/assets/9f65e165-af94-432c-b174-93299982e11d">
+<img width="717" alt="Screenshot 2024-09-16 at 10 24 50" src="https://github.com/user-attachments/assets/273c730b-650d-437b-92f9-d497d893f608">
+
