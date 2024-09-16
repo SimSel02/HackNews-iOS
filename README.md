@@ -58,7 +58,7 @@ For submission you have to deliver us the full git repository with the project y
 - List request: /listname.json
 - Item request: /item/id.json
 - Time is represented using Unix time.
-- Text is in the HTML format
+- Comments text is in the HTML format
 - Requesting a list return the ids, other request are needed to fetch stories data.
 
 **Story data:**
