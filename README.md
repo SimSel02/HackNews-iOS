@@ -54,12 +54,12 @@ For submission you have to deliver us the full git repository with the project y
 - Manage a list of preferred stories
 
 ## Getting to know the api
-Base Url: https://hacker-news.firebaseio.com/v0
-List request: /listname.json
-Item request: /item/id.json
-Time is represented using Unix time.
-Text is in the HTML format
-Requesting a list return the ids, other request are needed to fetch stories data.
+- Base Url: https://hacker-news.firebaseio.com/v0
+- List request: /listname.json
+- Item request: /item/id.json
+- Time is represented using Unix time.
+- Text is in the HTML format
+- Requesting a list return the ids, other request are needed to fetch stories data.
 
 **Story data:**
 - by
